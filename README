@@ -1,0 +1,8 @@
+This is just a personal project to use data and football statistics to get better at the game: Fantasy Premier League.
+
+The ultimate aim is to create a Machine Learning Algorithm that could play the game on its own, i.e. selecting squads, managing transfers, playing wildcards/chips, etc. We will see how far I may get in that endeavour.
+
+I will be using Python and various libraries available to download, curate and analyse data.
+
+Cheers
+
